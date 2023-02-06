@@ -1,0 +1,35 @@
+body{
+    background-color: aqua; 
+}
+
+p{
+    color: crimson; font-size: 32px; 
+}
+
+h1{
+    color: darkkhaki;
+}
+
+hr{
+    border-style: none;
+    border-top-style: double;
+    border-color: fuchsia;
+    border-width: 10px;
+    width: 5%;
+}
+
+img{
+    background-color: darkorange;
+}
+
+.mushroom{
+    background-color: white;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: chartreuse;
+    font-size: inherit;
+}
